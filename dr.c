@@ -35,4 +35,6 @@ int main ()
     else {
         printf("L'equation de droite correspondant est y=%.2fx+%.2f\n",a,b);
     }
+
+    return (0);
 } 
